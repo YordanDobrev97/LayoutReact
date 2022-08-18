@@ -1,0 +1,20 @@
+[
+    {
+        "image": "../assets/aliciaKeys.png",
+        "title": "Alicia Keys: 'I felt I was from another planet'",
+        "excerpt": "The R&B star on feeling like an \"outsider\", police brutality and the advice she gave Billie Eillish",
+        "category": "Entertainment & Arts"
+    },
+    {
+        "image": "../assets/alligator.png",
+        "title": "Alligator on gas snaps up lg Nobel prize",
+        "excerpt": "The 2020 lg Nobel prizes honour crocodilian vocalisations, narcissistic eyebrows and vibrating worms",
+        "category": "Science & Environment"
+    },
+    {
+        "image": "../assets/banksy.png",
+        "title": "Banksy loses 'flower bomber' trademark battle",
+        "excerpt": "The elusive artist was \"inconsistent\" in the case, EU authorities say",
+        "category": "Entertainment & Arts"
+    }
+]
